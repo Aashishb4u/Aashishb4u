@@ -40,5 +40,18 @@ In addition to development, I have extensive experience in **Figma** and have cr
 
 ---
 
+### 🌐 Projects Overview
+
+ <div> 
+  <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/creative%20hand.png" /> &nbsp;
+  <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/elev8.png" /> &nbsp;
+  <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/portfolio.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/ak%20service.png" /> &nbsp;
+  <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/uro%20one.png" /> &nbsp;
+  <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/lakewood_project.png" /> &nbsp;
+</div>
+
+---
+
 ### 🚀 Let's work together!
 If you're looking for a reliable and skilled full-stack developer, feel free to reach out! I'm always open to new opportunities and collaborations. Whether you need help with web or mobile development, design, or video editing, I'm here to make your vision come to life.
