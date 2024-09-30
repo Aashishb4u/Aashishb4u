@@ -11,6 +11,7 @@ In addition to development, I have extensive experience in **Figma** and have cr
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/5FA04E" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/tsnode/3178C6" /> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/21759B" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248" /> &nbsp;
