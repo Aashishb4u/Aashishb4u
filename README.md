@@ -44,6 +44,12 @@ In addition to development, I have extensive experience in **Figma** and have cr
 ### 🌐 Projects Overview
 
  <div> 
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/indistays_banner.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/faxoc_banner.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/betbuzz_banner.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/auto_commenter_banner.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/sandhyadeep_banner.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/infix_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/creative%20hand.png" /> &nbsp;
   <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/elev8.png" /> &nbsp;
   <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/portfolio.png" /> &nbsp;
