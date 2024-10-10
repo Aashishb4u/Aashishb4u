@@ -32,6 +32,14 @@ In addition to development, I have extensive experience in **Figma** and have cr
 
 ---
 
+### 🎥 Portfolio Showcase Video
+
+Check out my portfolio video below to learn more about my projects and expertise!
+
+[![Portfolio Video](https://img.youtube.com/vi/gmIP1sXM1Wc/0.jpg)](https://www.youtube.com/watch?v=gmIP1sXM1Wc)
+
+---
+
 ### 💼 Portfolio & Contact
 - **Portfolio**: [aashish-bhagwat.creativehand.co.in](https://aashish-bhagwat.creativehand.co.in)
 - **Contact Form**: [CreativeHand](https://aashish-bhagwat.creativehand.co.in/contact)
