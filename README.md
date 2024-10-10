@@ -55,6 +55,7 @@ Check out my portfolio video below to learn more about my projects and expertise
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/indistays_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/faxoc_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/betbuzz_banner.png" /> &nbsp;
+  <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/frylow_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/auto_commenter_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/sandhyadeep_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/infix_banner.png" /> &nbsp;
