@@ -4,6 +4,9 @@ I am a **seasoned full-stack developer** with 7 years of expertise in **Angular,
 
 In addition to development, I have extensive experience in **Figma** and have crafted more than **30 unique designs**. I'm also skilled in **video editing**, helping brands bring their stories to life.
 
+### [Download My Resume](https://github.com/Aashishb4u/Aashishb4u/raw/78a86e626e4c6d366015fa97df913f57abe714fe/Aashish%20Bhagwat%20Resume%20_%202025.pdf)
+
+
 ---
 
 <div>
