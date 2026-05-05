@@ -9,7 +9,7 @@ In addition to development, I have extensive experience in **Figma** and have cr
 
 ---
 
-<div>
+<span>
 <img height="32" width="32" src="https://cdn.simpleicons.org/angular/dd1100" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/5FA04E" /> &nbsp;
@@ -54,7 +54,7 @@ Check out my portfolio video below to learn more about my projects and expertise
 
 ### 🌐 Projects Overview
 
- <div> 
+ <span> 
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/indistays_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/faxoc_banner.png" /> &nbsp;
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/betbuzz_banner.png" /> &nbsp;
@@ -68,7 +68,7 @@ Check out my portfolio video below to learn more about my projects and expertise
   <img height="100" width="150" src="https://raw.githubusercontent.com/Aashishb4u/Aashishb4u/refs/heads/main/ak%20service.png" /> &nbsp;
   <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/uro%20one.png" /> &nbsp;
   <img height="100" width="150" src="https://github.com/Aashishb4u/Aashishb4u/blob/main/lakewood_project.png" /> &nbsp;
-</div>
+</span>
 
 ---
 
